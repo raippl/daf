@@ -154,8 +154,8 @@ libraryDependencies ++= Seq(
   "com.github.pathikrit" %% "better-files" % betterFilesVersion % Test)
   .map(x => x.exclude("org.scalactic", "scalactic"))
   .map(x => x.exclude("org.slf4j", "*")) ++
-  sparkLibraries.map(x => x.exclude("org.slf4j", "*")) ++
-  hbaseLibraries.map(x => x.exclude("org.slf4j", "*")) ++
-  kuduLibraries.map(x => x.exclude("org.slf4j", "*"))
-  //++ logLibraries.map(x => x.exclude("org.slf4j", "*"))
+  sparkLibraries ++
+  hbaseLibraries ++
+  kuduLibraries ++
+  logLibraries 
 
