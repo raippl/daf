@@ -461,7 +461,6 @@
         }
       ]
     },
-
     {
       "theme_ita": "Scienza e Tecnologia",
       "theme_code":"TECH",
@@ -490,7 +489,79 @@
           "subthemes_ita": []
         }
       ]
-    }
+    },
+    {
+      "theme_ita": "",
+      "theme_code":"",
+      "theme_daf_ita": "Vocabolari Controllati",
+      "theme_daf_code": "DAF_VOC",
+      "subthemes": [
+        {
+          "subtheme_daf_code": "agricoltura",
+          "subtheme_daf_ita": "Agricoltura",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "energia",
+          "subtheme_daf_ita": "Energia",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "territori",
+          "subtheme_daf_ita": "Territori",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "trasporti",
+          "subtheme_daf_ita": "Trasporti",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "economia",
+          "subtheme_daf_ita": "Economia e Finanza",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "internazionale",
+          "subtheme_daf_ita": "Internazionale",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "pa",
+          "subtheme_daf_ita": "Pubblica Amministrazione",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "giustizia",
+          "subtheme_daf_ita": "Giustizia e sistema giuridico",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "ambiente",
+          "subtheme_daf_ita": "Ambiente",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "istruzionecs",
+          "subtheme_daf_ita": "Istruzione, Cultura e Sport",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "salute",
+          "subtheme_daf_ita": "Salute",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "popolazione",
+          "subtheme_daf_ita": "Popolazione",
+          "subthemes_ita": []
+        },
+        {
+          "subtheme_daf_code": "tecnologia",
+          "subtheme_daf_ita": "scienza e tecnologia",
+          "subthemes_ita": []
+        }
+      ]
   ]
 
 }
